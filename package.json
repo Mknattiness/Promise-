@@ -1,0 +1,15 @@
+{
+  "name": "promise-demo",
+  "version": "1.0.0",
+  "description": "> Promise: 承诺、保证、诺言\r > 期望有一个结果：成功、失败",
+  "main": "00callback-hell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
